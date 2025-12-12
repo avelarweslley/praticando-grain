@@ -1,0 +1,101 @@
+@font-face {
+    font-family: "TiltWarp";
+    src: url(../fontes/TiltWarp-Regular-VariableFont_XROT\,YROT.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Geist";
+    src: url(../fontes/Geist-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #171614;
+    
+    
+}
+main{
+    background-image: url(../img/Image.svg);
+    background-size: 100%;
+    
+    
+}
+
+header p{
+    font-family: "Geist";
+    font-size: 20px;
+    color: #8C8D92;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: -1px;
+    margin: 16px 0 16px 0;    
+}
+
+section{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 545px;
+    
+    
+}
+nav{
+    color: #0F0E0E;
+    font-size: 20px;
+    font-family: "Geist";
+    
+    
+}
+.linkhome{
+    background-color: #FF5700;
+    text-decoration: none;
+    display:inline-block ;
+    text-align: center;
+    width: 79px;
+    height: 52px;
+    line-height: 52px;
+    border-radius: 0;
+
+}
+.linkarchive{
+    background-color: #32CE57;
+    text-decoration: none;
+    display:inline-block ;
+    text-align: center;
+    width: 95px;
+    height: 52px;
+    line-height: 52px;
+    border-radius: 999px;
+}
+.linkabout{
+    background-color: #A3CAFF;
+    text-decoration: none;
+    display:inline-block ;
+    text-align: center;
+    width: 81px;
+    height: 52px;
+    line-height: 52px;
+    border-radius: 6px;
+}
+
+h1{
+    font-family: "TiltWarp";
+    font-size: 200px ;
+    color: #F6F8FB;
+    text-align:center ;
+    font-weight: 400;
+    
+    
+}
+div{
+    
+    text-align: center;
+    
+    
+}
